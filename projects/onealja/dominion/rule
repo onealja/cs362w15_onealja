@@ -1,0 +1,23 @@
+#!/bin/bash
+
+gcc -fprofile-arcs -ftest-coverage -Wall -std=c99 dominion.c unit_test1.c rngs.c -o u_test1 -lm -g
+gcc -fprofile-arcs -ftest-coverage -Wall -std=c99 dominion.c unit_test2.c rngs.c -o u_test2 -lm -g
+gcc -fprofile-arcs -ftest-coverage -Wall -std=c99 dominion.c unit_test3.c rngs.c -o u_test3 -lm -g
+gcc -fprofile-arcs -ftest-coverage -Wall -std=c99 dominion.c unit_test4.c rngs.c -o u_test4 -lm -g
+gcc -fprofile-arcs -ftest-coverage -Wall -std=c99 dominion.c card_test1.c rngs.c -o c_test1 -lm -g
+gcc -fprofile-arcs -ftest-coverage -Wall -std=c99 dominion.c card_test2.c rngs.c -o c_test2 -lm -g
+gcc -fprofile-arcs -ftest-coverage -Wall -std=c99 dominion.c card_test3.c rngs.c -o c_test3 -lm -g
+gcc -fprofile-arcs -ftest-coverage -Wall -std=c99 dominion.c card_test4.c rngs.c -o c_test4 -lm -g
+
+echo ''
+
+./u_test1 &> unittestresult.out
+./u_test2 >> unittestresult.out
+./u_test3 >> unittestresult.out
+./u_test4 >> unittestresult.out
+./c_test1 >> unittestresult.out
+./c_test2 >> unittestresult.out
+./c_test3 >> unittestresult.out
+./c_test4 >> unittestresult.out
+gcov dominion.c >> unittestresult.out
+cat dominion.c.gcov >> unittestresult.out
