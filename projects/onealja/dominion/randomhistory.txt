@@ -1,0 +1,25 @@
+Great_Hall Random Test:
+
+Initially I was getting a segmentation fault when the number of actions would equal zero.
+I fixed this by resetting the number of actions to 1 after each loop.
+I was also checking the wr variable when trying to assert the discarded cards were correct.
+At first there were failures in the code with the hand count.
+This was caused by the function discarding great hall and then drawing a card effectively making the hand count remain equal.
+An assert that checked the hand count was equal fixed this problem.
+The number of failures at this point was too high still with several of my asserts failing.
+I found that there was a calculation error when checking discarded cards because I was not resetting the number at each loop.
+When I finished my failures were at zero but once in a while there was still a segmentation fault.
+I believe this has something to do with the implementation of the gamestate struct and its repeated use in the initialize game function.
+There were no revealing similarities in the outputs of the various segmentation faults.
+The only similarity that was consistent was that the segmentation fault would occur on the very first run when the cardEffect function was called.
+
+Adventurer Random Test:
+
+This random test had a similar game state setup to the previous test. 
+Initially both asserts were failing meaning the deckcount and handcount were both wrong.
+I discovered that the handcount would only pass if it was asserted to be 7 after the cardEffect call.
+This seems wrong because the adventurer card should be played making the handcount 4 and then two treasure cards should be kept making it 6.
+However, there may be a difference in handCount the variable and the way it is added to and removed from.
+The deck size still fails sometimes which is unusual. 
+The assert checks that the deck count should be equal to the previous deck count minus however many cards were discarded plus 2.
+This is usually the case but once in a while the assert will fail meaning there is a bug somewhere in the adventurer card and the way it implements discarding.

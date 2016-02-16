@@ -1,9 +1,13 @@
 #include <stdlib.h>
 
-void assert(int val) 
+int assert(int val) 
 {
-   if (val)
+   if (val){
       printf("PASSED\n");
-   else
+      return 0;
+   }
+   else{
       printf("FAILED\n");
+      return 1;
+   }
 }

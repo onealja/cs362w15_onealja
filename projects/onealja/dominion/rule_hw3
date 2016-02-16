@@ -1,0 +1,12 @@
+gcc -fprofile-arcs -ftest-coverage -Wall -std=c99 dominion.c randomtestcard.c rngs.c -o rando1 -lm -g
+gcc -fprofile-arcs -ftest-coverage -Wall -std=c99 dominion.c randomtestadventure.c rngs.c -o rando2 -lm -g
+
+
+./rando1 &> randomtestcard.out
+./rando2 &> randomtestadventure.out
+
+gcov dominion.c >> randomtestcard.out
+cat dominion.c.gcov >> randotestcard.out
+
+gcov dominion.c >> randomtestadventure.out
+cat dominion.c.gcov >> randomtestadventure.out

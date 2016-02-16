@@ -1,3 +1,8 @@
+./rule_hw3: line 9: ./rando2: No such file or directory
+File 'dominion.c'
+No executable lines
+dominion.c:creating 'dominion.c.gcov'
+
         -:    0:Source:dominion.c
         -:    0:Graph:dominion.gcno
         -:    0:Data:dominion.gcda
