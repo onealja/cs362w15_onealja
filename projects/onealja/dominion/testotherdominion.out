@@ -1,0 +1,458 @@
+Begin Dominion Test: 3 players
+
+1 players turn
+copper	estate	estate	estate	copper	
+
+Current money: 2
+bought estate
+
+2 players turn
+copper	copper	copper	estate	estate	
+
+Current money: 3
+bought silver
+
+3 players turn
+copper	copper	copper	copper	estate	
+
+Current money: 4
+bought cutpurse
+
+1 players turn
+copper	copper	copper	copper	copper	
+
+Current money: 5
+Bought tribute
+
+2 players turn
+estate	copper	copper	copper	copper	
+
+Current money: 4
+bought gardens
+
+3 players turn
+copper	copper	estate	copper	estate	
+
+Current money: 3
+bought village
+
+1 players turn
+copper	copper	estate	copper	estate	
+
+Current money: 3
+bought village
+
+2 players turn
+copper	copper	copper	estate	copper	
+
+Current money: 4
+bought cutpurse
+
+3 players turn
+copper	estate	copper	copper	copper	
+
+Current money: 4
+bought cutpurse
+
+1 players turn
+estate	copper	copper	copper	tribute	
+
+Played tribute Card
+Current money: 3
+bought silver
+
+2 players turn
+copper	estate	copper	copper	gardens	
+
+Played gardens
+Current money: 3
+bought village
+
+3 players turn
+estate	estate	cutpurse	copper	copper	
+
+Played cutpurse
+Current money: 2
+bought embargo
+
+1 players turn
+estate	copper	copper	silver	copper	
+
+Current money: 5
+Bought minion
+
+2 players turn
+silver	estate	copper	gardens	copper	
+
+Played gardens
+Current money: 4
+bought sea hag
+
+3 players turn
+copper	village	cutpurse	copper	copper	
+
+Played cutpurse
+Played village Card
+Current money: 3
+bought village
+
+1 players turn
+copper	estate	estate	copper	copper	
+
+Current money: 3
+bought silver
+
+2 players turn
+estate	copper	copper	copper	copper	
+
+Current money: 4
+bought smithy
+
+3 players turn
+estate	copper	estate	copper	estate	
+
+Current money: 2
+bought estate
+
+1 players turn
+copper	tribute	village	estate	copper	
+
+Played tribute Card
+Played village Card
+Current money: 2
+bought embargo
+
+2 players turn
+cutpurse	estate	village	copper	smithy	
+
+Played smithy Card
+Played cutpurse
+Played village Card
+Current money: 1
+
+3 players turn
+copper	copper	embargo	estate	copper	
+
+Played embargo Card
+Current money: 3
+bought village
+
+1 players turn
+copper	estate	estate	copper	minion	
+
+Played minion Card
+Current money: 2
+bought embargo
+
+2 players turn
+estate	gardens	copper	sea hag	copper	
+
+Played gardens
+Played sea hag
+Current money: 2
+bought estate
+
+3 players turn
+village	copper	copper	village	estate	
+
+Played village Card
+Current money: 2
+bought embargo
+
+1 players turn
+copper	copper	silver	copper	estate	
+
+Current money: 5
+Bought tribute
+
+2 players turn
+copper	estate	silver	copper	gardens	
+
+Played gardens
+Current money: 4
+bought smithy
+
+3 players turn
+copper	estate	estate	copper	village	
+
+Played village Card
+Current money: 2
+bought estate
+
+1 players turn
+estate	copper	embargo	copper	tribute	
+
+Played tribute Card
+Played embargo Card
+Current money: 2
+bought estate
+
+2 players turn
+estate	village	estate	estate	copper	
+
+Played village Card
+Current money: 1
+
+3 players turn
+copper	copper	copper	estate	embargo	
+
+Played embargo Card
+Current money: 3
+bought silver
+
+1 players turn
+silver	copper	copper	copper	embargo	
+
+Played embargo Card
+Current money: 5
+Bought tribute
+
+2 players turn
+copper	copper	copper	copper	cutpurse	
+
+Played cutpurse
+Current money: 4
+bought gardens
+
+3 players turn
+copper	village	estate	estate	silver	
+
+Played village Card
+Current money: 3
+bought silver
+
+1 players turn
+copper	copper	estate	tribute	estate	
+
+Played tribute Card
+Current money: 2
+bought embargo
+
+2 players turn
+gardens	estate	copper	copper	estate	
+
+Played gardens
+Current money: 2
+bought embargo
+
+3 players turn
+copper	copper	copper	estate	estate	
+
+Current money: 3
+bought village
+
+1 players turn
+estate	silver	copper	estate	copper	
+
+Current money: 4
+bought gardens
+
+2 players turn
+copper	sea hag	copper	gardens	copper	
+
+Played gardens
+Played sea hag
+Current money: 3
+bought village
+
+3 players turn
+copper	estate	copper	village	estate	
+
+Played village Card
+Current money: 2
+bought estate
+
+1 players turn
+copper	copper	embargo	estate	estate	
+
+Played embargo Card
+Current money: 2
+bought embargo
+
+2 players turn
+copper	copper	silver	estate	smithy	
+
+Played smithy Card
+Current money: 4
+bought sea hag
+
+3 players turn
+copper	estate	silver	estate	silver	
+
+Current money: 5
+Bought tribute
+
+1 players turn
+silver	tribute	copper	tribute	copper	
+
+Played tribute Card
+Current money: 4
+bought sea hag
+
+2 players turn
+estate	sea hag	estate	village	copper	
+
+Played sea hag
+Played village Card
+Current money: 1
+
+3 players turn
+copper	copper	copper	copper	copper	
+
+Current money: 5
+Bought minion
+
+1 players turn
+estate	copper	tribute	embargo	tribute	
+
+Played tribute Card
+Played embargo Card
+Current money: 1
+
+2 players turn
+copper	gardens	copper	copper	estate	
+
+Played gardens
+Current money: 3
+bought village
+
+3 players turn
+estate	estate	silver	copper	estate	
+
+Current money: 3
+bought village
+
+1 players turn
+sea hag	copper	copper	estate	tribute	
+
+Played tribute Card
+Played sea hag
+Current money: 2
+bought embargo
+
+2 players turn
+embargo	estate	copper	copper	silver	
+
+Played embargo Card
+Current money: 4
+bought gardens
+
+3 players turn
+silver	tribute	estate	estate	copper	
+
+Played tribute Card
+Current money: 3
+bought village
+
+1 players turn
+copper	estate	silver	copper	silver	
+
+Current money: 6
+bought me some adventurer
+
+2 players turn
+estate	sea hag	gardens	estate	sea hag	
+
+Played gardens
+Played sea hag
+Current money: 0
+
+3 players turn
+estate	copper	estate	estate	copper	
+
+Current money: 2
+bought embargo
+
+1 players turn
+copper	estate	copper	gardens	estate	
+
+Played gardens
+Current money: 2
+bought estate
+
+2 players turn
+copper	copper	estate	estate	silver	
+
+Current money: 4
+bought gardens
+
+3 players turn
+silver	copper	copper	copper	minion	
+
+Played minion Card
+Current money: 5
+Bought mine
+
+1 players turn
+tribute	tribute	adventurer	gardens	estate	
+
+Played adventurer Card
+Played tribute Card
+Played gardens
+Current money: 0
+
+2 players turn
+copper	copper	gardens	estate	village	
+
+Played gardens
+Played village Card
+Current money: 2
+bought embargo
+
+3 players turn
+tribute	estate	copper	estate	copper	
+
+Played tribute Card
+Current money: 2
+bought estate
+
+1 players turn
+copper	estate	estate	copper	estate	
+
+Current money: 2
+bought estate
+
+2 players turn
+gardens	copper	gardens	copper	estate	
+
+Played gardens
+Current money: 2
+bought estate
+
+3 players turn
+silver	estate	village	village	copper	
+
+Played village Card
+Current money: 3
+bought silver
+
+1 players turn
+silver	estate	embargo	copper	copper	
+
+Played embargo Card
+Current money: 4
+bought cutpurse
+
+2 players turn
+copper	sea hag	gardens	estate	copper	
+
+Played gardens
+Played sea hag
+Current money: 2
+bought estate
+
+3 players turn
+estate	copper	estate	estate	estate	
+
+Current money: 1
+
+1 players turn
+copper	copper	estate	gardens	tribute	
+
+Played tribute Card
+Played gardens
+Current money: 2
+bought estate
+Finished game with 67 rounds.
+
+

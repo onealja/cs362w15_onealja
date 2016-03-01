@@ -1,0 +1,8 @@
+When my random test was run on a different implementation of dominion.c,
+it returned with a great deal of differences. One of these that stood out 
+was the implementation of the village card. This card was played in both runs
+of the game but appeared in the diff file because the results were different.
+This implies that there is a bug in one of the implementations of the dominion
+code. The players, cards, turns, and rounds also appeared in the diff because
+the test was set up to be random. These lines are expected to appear and it 
+was a good indicator that the tests were indeed somewhat random. 
